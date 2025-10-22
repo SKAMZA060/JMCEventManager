@@ -1,0 +1,60 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">JMC Event Manager</string>
+    <string name="app_description">Juba Management &amp; Catering Event Management System</string>
+
+    <!-- Main Activity -->
+    <string name="create_event">Create Event</string>
+    <string name="view_registrations">Registrations</string>
+    <string name="active_events">Active Events</string>
+    <string name="all_events">All Events</string>
+    <string name="utilization_rate">Utilization</string>
+    <string name="upcoming_events">Upcoming Events</string>
+
+    <!-- Event Categories -->
+    <string name="category_cultural">Cultural</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_educational">Educational</string>
+    <string name="category_community_service">Community Service</string>
+
+    <!-- Event Status -->
+    <string name="status_active">Active</string>
+    <string name="status_full">Full</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_completed">Completed</string>
+
+    <!-- Form Labels -->
+    <string name="event_name">Event Name</string>
+    <string name="event_category">Category</string>
+    <string name="event_date_time">Date &amp; Time</string>
+    <string name="venue">Venue</string>
+    <string name="capacity">Capacity</string>
+    <string name="organizer_name">Organizer Name</string>
+    <string name="participant_name">Participant Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+
+    <!-- Buttons -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="submit">Submit</string>
+
+    <!-- Messages -->
+    <string name="registration_success">Registration successful!</string>
+    <string name="registration_failed">Registration failed. Event may be full.</string>
+    <string name="event_created">Event created successfully!</string>
+    <string name="event_updated">Event updated successfully!</string>
+    <string name="field_required">This field is required</string>
+
+    <!-- Placeholders -->
+    <string name="hint_event_name">Enter event name</string>
+    <string name="hint_organizer_name">Enter organizer name</string>
+    <string name="hint_venue">Enter venue location</string>
+    <string name="hint_participant_name">Enter your full name</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_phone">Enter your phone number</string>
+    <string name="event_details">Event Details</string>
+</resources>
